@@ -1,4 +1,4 @@
-package com.pluralsight.conferencespringmvc;
+package com.pluralsight.conference_springmvc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
